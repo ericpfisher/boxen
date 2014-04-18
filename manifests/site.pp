@@ -89,4 +89,4 @@ node default {
   }
 }
 
-include sourcetree
+include vagrant

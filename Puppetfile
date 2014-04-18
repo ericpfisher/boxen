@@ -60,4 +60,4 @@ github "xquartz",     "1.1.1"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "sourcetree",  "1.8.0.3"
+github "vagrant",     "1.5.0"
