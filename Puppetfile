@@ -61,3 +61,4 @@ github "xquartz",     "1.1.1"
 # https://github.com/boxen.
 
 github "vagrant",     "3.0.7"
+github "autodmg", "0.0.1",  :repo => "grahamgilbert/puppet-autodmg"

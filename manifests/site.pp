@@ -90,3 +90,4 @@ node default {
 }
 
 include vagrant
+include autodmg
